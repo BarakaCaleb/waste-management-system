@@ -1,7 +1,7 @@
 <?php 
-$db = new mysqli('localhost','root','','wms');
-if(!$db) {
-    die('Please check Your database connection'.mysqli_error($db));
-}
+$db = new mysqli('localhost', 'root', '', 'wms');
 
+if ($db->connect_error) {
+    die('Connection failed: ' . $db->connect_error);
+}
 ?>
