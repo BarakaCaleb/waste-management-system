@@ -102,11 +102,11 @@ if(isset($_POST['submit'])){
 <div class="col-md-4 contact-info">
 <div class="phone">
    <h2>Call</h2>
-   <a href="tel:+977">16609952111</a>
+   <a href="tel:+254">795430038</a>
 </div>
 <div class="email">
    <h2>Email</h2>
-   <a href="mailto:info@bheemdattamun.gov.np bmuncipality@gmail.com">info@bheemdattamun.gov.np bmuncipality@gmail.com</a>
+   <a href="mailto:info@nairobi.gov thikamunicipality@gmail.com">info@nairobi.gov thikamunicipality@gmail.com</a>
 </div>
 <div class="location">
    <h2>Visit</h2>
